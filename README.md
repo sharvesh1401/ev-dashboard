@@ -58,17 +58,15 @@ Electro-Dash Insight is more than a dashboard; it's a tool for building a more r
 
 You can access the live application here: **[https://eco-amp.netlify.app](https://eco-amp.netlify.app)**
 
-Below are screenshots of the landing page, main dashboard, and the ML model analytics view.
+Below are screenshots of the main dashboard and the ML model analytics view.
 
-**Landing Page:**
-![EcoAmp Suite Landing Page](https://raw.githubusercontent.com/sharvesh1401/electro-dash-insight/main/EcoAmp%20Suite%20Landing%20page.png)
-> Image URL: `https://raw.githubusercontent.com/sharvesh1401/electro-dash-insight/main/EcoAmp%20Suite%20Landing%20page.png`
-
+**Live Webpage Preview:**
+![Live Webpage Preview](https://raw.githubusercontent.com/sharvesh1401/electro-dash-insight/main/Live%20webpage%20preview.png)
 
 **ML Model Dashboard:**
-![ML Model Dashboard](https://raw.githubusercontent.com/sharvesh1401/electro-dash-insight/main/ML%20model%20page.png)
-> Image URL: `https://raw.githubusercontent.com/sharvesh1401/electro-dash-insight/main/ML%20model%20page.png`
+![ML Model Dashboard](https://raw.githubusercontent.com/sharvesh1401/electro-dash-insight/main/ML%20Model%20Dash.png)
 
+---
 
 ## 🛠️ Tech Stack
 
